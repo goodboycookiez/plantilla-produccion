@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Mesas, batidora y utensilios",
+    "categoria": "limpieza",
+    "dias": [1, 2, 3, 4, 5],
+    "notas": "Al cierre de cada turno."
+  },
+  {
+    "nombre": "Barrer y trapear",
+    "categoria": "limpieza",
+    "dias": [1, 2, 3, 4, 5],
+    "notas": "Corriendo mesas y racks."
+  },
+  {
+    "nombre": "Horno a fondo",
+    "categoria": "limpieza",
+    "dias": [5],
+    "notas": ""
+  },
+  {
+    "nombre": "Conteo del congelador",
+    "categoria": "inventario",
+    "dias": [3, 5],
+    "notas": "Anotar en Stock cuántas bolas hay de cada masa. El del viernes es el cierre de la semana."
+  },
+  {
+    "nombre": "Inventario de materia prima",
+    "categoria": "inventario",
+    "dias": [5],
+    "notas": "Anotar qué falta para pedir."
+  }
+]

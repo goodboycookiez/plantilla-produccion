@@ -1,0 +1,9 @@
+[
+  { "id": "chocolate", "nombre": "Chocolate", "descripcion": "Chips de chocolate", "foto": "", "unidad": "unidad", "activo": true, "soloPara": [] },
+  { "id": "vainilla", "nombre": "Vainilla", "descripcion": "Clásica de vainilla", "foto": "", "unidad": "unidad", "activo": true, "soloPara": [] },
+  { "id": "avena", "nombre": "Avena", "descripcion": "Avena y pasas", "foto": "", "unidad": "unidad", "activo": true, "soloPara": [] },
+  { "id": "sandwich", "nombre": "Sándwich", "descripcion": "Dos tapas con relleno de arequipe", "foto": "", "unidad": "unidad", "activo": true, "soloPara": [] },
+  { "id": "chocolate-especial", "nombre": "Chocolate Especial", "descripcion": "Exclusiva de Café Ejemplo", "foto": "", "unidad": "unidad", "activo": true, "soloPara": ["cafe-ejemplo"] },
+  { "id": "temporada", "nombre": "Sabor de temporada", "descripcion": "Edición especial", "foto": "", "unidad": "unidad", "activo": true, "soloPara": [] },
+  { "id": "caja-surtida", "nombre": "Caja surtida", "descripcion": "Por kilo, sabores mezclados", "foto": "", "unidad": "kg", "activo": true, "soloPara": [] }
+]

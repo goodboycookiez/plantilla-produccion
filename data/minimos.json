@@ -1,0 +1,11 @@
+{
+  "_como": "Mínimos de bolas en el congelador. Se editan en Programar → Mínimos; esto es la base. porGramaje vale para todas las masas de ese tamaño; porMasa usa \"NOMBRE|gramaje\" o \"NOMBRE|*\" (cualquier gramaje) y manda sobre porGramaje.",
+  "porGramaje": {
+    "90g": 100,
+    "70g": 80
+  },
+  "porMasa": {
+    "CHOCOLATE|90g": 150,
+    "SANDWICH|50g": 80
+  }
+}

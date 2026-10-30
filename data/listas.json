@@ -1,0 +1,39 @@
+{
+  "masas": [
+    "AVENA",
+    "CHOCOLATE",
+    "CHOCOLATE ESPECIAL",
+    "SANDWICH",
+    "VAINILLA",
+    "TEMPORADA"
+  ],
+  "rellenos": [
+    "AREQUIPE",
+    "CREMA DE CHOCOLATE"
+  ],
+  "toppings": [
+    "AZUCAR + CANELA",
+    "COCOA"
+  ],
+  "gramajesRelleno": [
+    "10g",
+    "15g"
+  ],
+  "lotes": [
+    "1 simple",
+    "1 doble",
+    "1 triple",
+    "2 simples",
+    "2 dobles",
+    "2 triples"
+  ],
+  "equipo": [
+    "Persona 1",
+    "Persona 2"
+  ],
+  "areas": [
+    "Congelador",
+    "Nevera",
+    "Otra"
+  ]
+}

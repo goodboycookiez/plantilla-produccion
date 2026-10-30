@@ -1,0 +1,48 @@
+[
+  {
+    "id": "punto-de-venta",
+    "nombre": "PUNTO DE VENTA",
+    "razonSocial": "Punto de venta propio",
+    "direccion": "Punto de venta propio",
+    "telefono": "",
+    "gramaje": "90g",
+    "horarioEntrega": "",
+    "domicilio": "",
+    "valorUnitario": "",
+    "tipoPago": "",
+    "reteIva": false,
+    "desarrollos": [],
+    "activo": true,
+    "interno": true
+  },
+  {
+    "id": "cafe-ejemplo",
+    "nombre": "Café Ejemplo",
+    "razonSocial": "CAFÉ EJEMPLO SAS",
+    "direccion": "Calle 1 # 2-3",
+    "telefono": "3000000000",
+    "gramaje": "90g",
+    "horarioEntrega": "8AM",
+    "domicilio": "$5.000",
+    "valorUnitario": "$5.000",
+    "tipoPago": "JURIDICA",
+    "reteIva": true,
+    "desarrollos": ["CHOCOLATE ESPECIAL"],
+    "activo": true
+  },
+  {
+    "id": "tienda-demo",
+    "nombre": "Tienda Demo",
+    "razonSocial": "TIENDA DEMO",
+    "direccion": "Carrera 4 # 5-6",
+    "telefono": "3000000001",
+    "gramaje": "70g",
+    "horarioEntrega": "10AM",
+    "domicilio": "$5.000",
+    "valorUnitario": "$4.000",
+    "tipoPago": "NATURAL",
+    "reteIva": false,
+    "desarrollos": [],
+    "activo": true
+  }
+]
