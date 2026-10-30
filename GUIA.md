@@ -6,6 +6,35 @@ funcionando en internet, gratis.
 
 ---
 
+## De dónde nace esto
+
+En Goodboy Cookies, todos los pedidos de nuestros clientes mayoristas (cafés,
+tiendas, hoteles) llegaban por WhatsApp. Eran decenas de chats, mensajes que
+se perdían entre audios y fotos, y datos que había que copiar a mano a un
+calendario: el nombre del cliente, la dirección, el tamaño de la galleta, los
+sabores, la fecha de entrega.
+
+Cada vez que copiábamos algo a mano aparecía un error: un gramaje equivocado,
+un pedido que nunca llegó a la cocina, un día con más galletas de las que
+podíamos hornear. En la cocina nadie sabía con certeza qué hornear cada día,
+cuánta masa había en el congelador o por qué el conteo del viernes no
+cuadraba con lo que se había producido.
+
+Así que construimos nuestra propia herramienta. Hoy el cliente hace su pedido
+en un link, eligiendo su negocio de una lista (sin errores de digitación). El
+pedido cae solo en el calendario de producción, el equipo ve qué hornear por
+sabor y por tamaño, la preproducción queda programada y el stock del
+congelador se cuadra solo cada semana, avisando cuando algo no coincide.
+También organiza la limpieza, las muestras, las bajas y hasta la pausa
+activa del equipo.
+
+Después de contarlo en un video, muchas personas con negocios parecidos nos
+escribieron para pedirla. Por eso la convertimos en esta **plantilla en
+blanco**: la misma lógica que usamos en nuestra cocina, lista para que le
+pongas tus sabores, tus clientes, tu equipo y tu marca.
+
+---
+
 ## 1. ¿Qué es esto?
 
 Es una página web con dos partes:
@@ -231,3 +260,19 @@ Cuando estés feliz con los cambios, en GitHub Desktop escribe un resumen, toca
 | Programar muestra un aviso rojo de "sin clave" | Falta `PROGRAMAR_PASSWORD` en Vercel. |
 | Después de editar un `.json` la página no publica | Seguramente falta o sobra una coma o unas comillas. En Vercel → Deployments, el último en rojo dice en qué línea. |
 | Un cliente no aparece en el formulario | Revisa que esté `activo` y que no sea `interno`. |
+
+---
+
+## ¿Prefieres que lo hagamos por ti?
+
+Si no tienes tiempo o no te interesa hacer todo esto, te acompañamos. En una
+asesoría te dejamos la plataforma funcionando con tus productos, tus clientes
+y tu marca, y te enseñamos a ti y a tu equipo a manejarla en el día a día:
+programar la producción, cuadrar el stock y organizar tu cocina.
+
+**Agenda tu asesoría:**
+
+- WhatsApp: **321 932 9936**
+- Correo: **goodboycookiez@gmail.com**
+
+Hecho con cariño por Goodboy Cookies.
